@@ -85,5 +85,3 @@ churn-prediction-telecom/
 
 ---
 
-*Project developed as part of the Data Science Diploma — TripleTen*
-
